@@ -20,3 +20,4 @@ class BookSchema(Schema):
     title = fields.String()
     author = fields.String()
     description = fields.String()
+
